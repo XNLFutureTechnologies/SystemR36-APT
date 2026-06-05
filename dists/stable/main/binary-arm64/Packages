@@ -1,0 +1,15 @@
+Package: sr36-sr36core
+Version: 0.0.1
+Architecture: arm64
+Protected: yes
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36-sr36core.deb
+Size: 40450
+MD5sum: d08903cb4428825e616fd2749bd8d418
+SHA1: 92090a00990edb4794821e50b4ad50ad7b3308eb
+SHA256: 4e2ec22788d4355e1a218a3aaa53039922ef3776bb0126232cc7687926f66bc3
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 Core Daemon
+
