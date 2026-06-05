@@ -4,10 +4,10 @@ Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-sr36core.deb
-Size: 40450
-MD5sum: d08903cb4428825e616fd2749bd8d418
-SHA1: 92090a00990edb4794821e50b4ad50ad7b3308eb
-SHA256: 4e2ec22788d4355e1a218a3aaa53039922ef3776bb0126232cc7687926f66bc3
+Size: 40458
+MD5sum: 8dc850390d17eead120b8a0fb4ee5a4f
+SHA1: 2ff9dcff3b80dbab30c7241fabfa7dc924f069a5
+SHA256: e25ec8ba60aff479ac58837ca40f0a545bc813f45f7f045fa7f229989ea42a12
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
