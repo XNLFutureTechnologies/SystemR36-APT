@@ -1,3 +1,68 @@
+Package: sr36-emulationstation
+Version: 3.0.0
+Architecture: arm64
+Protected: yes
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Depends: sr36-emulationstation-resources (>= 3.0.0), sr36-emulationstation-locale (>= 3.0.0), sr36-emulationstation-config (>= 3.0.0)
+Conflicts: emulationstation
+Replaces: emulationstation
+Provides: emulationstation
+Filename: pool/main/sr36-emulationstation.deb
+Size: 1543968
+MD5sum: ad2e07d083adf8eea41961c72da3aed7
+SHA1: 566eeb62c555ecef5190885f2688bd6fec43a437
+SHA256: 8f13acdf4dc0e359ae07b3f43c1cbb95f7343d275415e2767308e0e6bc28e62f
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 EmulationStation-XNL
+
+Package: sr36-emulationstation-config
+Version: 3.0.0
+Architecture: arm64
+Protected: yes
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36-emulationstation-config.deb
+Size: 10130
+MD5sum: ebf4378548abc59e519c4e9391891a30
+SHA1: 1ea6c191a033c5ee77a5b2c740cb040582e7d8a7
+SHA256: 4ba4c31253a24320a1e9204c87587b62cce2ade300d2c0eafae51eb6e0e27000
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 EmulationStation-XNL (Systems) Configuration
+
+Package: sr36-emulationstation-locale
+Version: 3.0.0
+Architecture: arm64
+Protected: yes
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Depends: sr36-emulationstation-resources (>= 3.0.0)
+Filename: pool/main/sr36-emulationstation-locale.deb
+Size: 192482
+MD5sum: 7df660600325788589f4bf19084d5aa2
+SHA1: 15458b168d95371b3ad2e3621c268c3ebcb4a61e
+SHA256: 9e1954b42edcc0233b23aa253f08b6a2933e67fb27228052d6ded176102e713f
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 EmulationStation-XNL Language Files
+
+Package: sr36-emulationstation-resources
+Version: 3.0.0
+Architecture: arm64
+Protected: yes
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36-emulationstation-resources.deb
+Size: 4762700
+MD5sum: 0430695562a3b66be9996f5fe53cf861
+SHA1: 7ebc0ff7f45f3ebb649a75ab18f26b1b599c1308
+SHA256: 2230b9311928e4c20b83bbf940ed05f52cafadd43bc4bbdd44e5c8abec8bbc0a
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 EmulationStation-XNL Resources
+
 Package: sr36-sr36core
 Version: 0.0.3
 Architecture: arm64
