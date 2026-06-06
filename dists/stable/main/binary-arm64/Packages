@@ -1,3 +1,18 @@
+Package: sr36-basesystem-updater
+Version: 0.0.2
+Architecture: arm64
+Protected: yes
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36-basesystem-updater.deb
+Size: 1012
+MD5sum: 000e61c298b25c8c950f369c7ea834fa
+SHA1: f03087b33da3f473cc2208afd49d48796a8966c0
+SHA256: af12a889a31349c00a2d35b5069503b997b3d879f99b4e37d40521a19a3d9616
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 Base Update System which can also pull-in NEW packages after the inital distro release when needed
+
 Package: sr36-emulationstation
 Version: 3.0.0
 Architecture: arm64
@@ -9,9 +24,9 @@ Replaces: emulationstation
 Provides: emulationstation
 Filename: pool/main/sr36-emulationstation.deb
 Size: 1543968
-MD5sum: 8175b7d52451bba9d374cbaae283cd71
-SHA1: 7c8a15c2b70eee82ac4e3f721c6ad1efe779ff0b
-SHA256: 900c412a6a65b82476af1f46587bf8778b14487b232a1dcaf65d2001b91ecf97
+MD5sum: ada369e47e359112747283aa6df042e1
+SHA1: 6c8c7113db171b9ed4020100550a41186c3567b5
+SHA256: 520897afd6f96422d6254c9a7218f3b9e50211e5210bbc923c01732cdbdcd953
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
@@ -24,9 +39,9 @@ Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-emulationstation-config.deb
 Size: 10130
-MD5sum: 3eef08be6f58e5db99b3c6a2d5910913
-SHA1: 6f911e1cb19b0288da8c14e830498e12738b6a2d
-SHA256: e4ff4336d205c3cc60c9473e4ddc1b49e630b569b5beeba8117c007136b78e61
+MD5sum: f4d2e9156624280901fec0e7c45a0aa9
+SHA1: d8bf0c1e23a5da60cc23dad2c733ca159766f0d6
+SHA256: 9406531bc61fff5fd84f103d5a2fbeaa91296776615702a3d5acfa8f57c9adcf
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
@@ -40,9 +55,9 @@ Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Depends: sr36-emulationstation-resources (>= 3.0.0)
 Filename: pool/main/sr36-emulationstation-locale.deb
 Size: 192482
-MD5sum: 0c85c263f3669e11d5a0e223aa40e5b1
-SHA1: eac6f9f710cf7170ba50377bed75f4dd7e815750
-SHA256: c404bfc4166b92fccb4dbaeb47b4e107288ac412f767ddc04ed29e0a9e02d457
+MD5sum: 06a97278a25291e1581ff40bbca293a7
+SHA1: 34822843acd279275b4fae69f062a6836061c045
+SHA256: 769b8e20c8f1c1466a2f0231560e83bb0293f6bbd4590edaa23bb2241f32b77e
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
@@ -55,9 +70,9 @@ Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-emulationstation-resources.deb
 Size: 4762700
-MD5sum: bd742792957537693f0cdeec4f1dc488
-SHA1: 822711fd6dacdb91f0371c3eae6e96d465a85227
-SHA256: 9aad23f5136f7c0b095865a376e3b7c36431efcde6cc59545a2585e15d7b5d23
+MD5sum: d2e06cdbb6d7ed4952d26a26f30729e2
+SHA1: fc1362b96a5fe66ebc889e02fc3c792eee6fd08f
+SHA256: 5b9d5129e1e7373098ac5ec7fb1854c2075f6fe5ce2194b52d82e1212087e86b
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
@@ -85,9 +100,9 @@ Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-sdcard2-baselayout.deb
 Size: 317466
-MD5sum: f3918dc9777c0bdb7485496912acee3e
-SHA1: 6e4877e451e550bf144805799a5f362fc3158160
-SHA256: c4c1a3abebeb427a5b24e0d1e472922b1ac1190779c7881cdf21b8887fc87422
+MD5sum: 6fd2b33edc23d52726779fbe52bd35e9
+SHA1: f115fd9bf46d3bd65aff00a9cb31b7b721488579
+SHA256: c8f817b06243b88172567a337aa9a1d318e8034f04366badd417309bad57d9bc
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
@@ -99,10 +114,10 @@ Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-sdcard2-defaultbiossetup.deb
-Size: 5765334
-MD5sum: 78ff8070c5ed74ece70a27fd2a76aa8b
-SHA1: 0fb27b8db8488428b0ead2ffd5a3d5fac0977a8a
-SHA256: fc2b3f45ccb528195203c77da5ac1c5829643d0909be393dcfffca28b96427b1
+Size: 5765332
+MD5sum: 2dcd7bcb44d3f019bb612c0d817dba57
+SHA1: 292e75a82c74eedff69fce6e282be4d52887a489
+SHA256: 5cb808a62dbb7cd5bbfda6833c48b8c7ae295f2f4fab25e94ea8878cff3bc3aa
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
