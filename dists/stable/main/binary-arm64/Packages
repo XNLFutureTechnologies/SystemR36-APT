@@ -94,15 +94,15 @@ Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 GRiB Boot and Rescue Menu
 
 Package: sr36-sdcard2-baselayout
-Version: 1.0.0
+Version: 1.0.1
 Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-sdcard2-baselayout.deb
-Size: 317466
-MD5sum: 6fd2b33edc23d52726779fbe52bd35e9
-SHA1: f115fd9bf46d3bd65aff00a9cb31b7b721488579
-SHA256: c8f817b06243b88172567a337aa9a1d318e8034f04366badd417309bad57d9bc
+Size: 299264
+MD5sum: 857fd2baf631fbe45dc2933eeed340e4
+SHA1: 706441ddb6f1b8fb1c609a87fe1374fe56c84171
+SHA256: d8b29d26c523b38f0ea36ea121a7146925447fc6108281b571f94ce53d07fc49
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
@@ -122,6 +122,21 @@ Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 SD-Card-2 Default BIOS Setup
+
+Package: sr36-sdcard2-defaultscreensavers
+Version: 1.0.0
+Architecture: arm64
+Protected: yes
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36-sdcard2-defaultscreensavers.deb
+Size: 20632
+MD5sum: c9dcdba4e047ced0a6d1f5f8361cb85d
+SHA1: a6931db8c4e89ffef2091fbd14ef1b32a5ad1487
+SHA256: 80fc8973bbe6c3da409823c329d663230028f71d68feee21c61eae2872974e17
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 SD-Card-2 Default Screensavers
 
 Package: sr36-sr36core
 Version: 0.0.3
