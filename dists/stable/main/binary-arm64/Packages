@@ -1,13 +1,13 @@
 Package: sr36-basesystem-updater
-Version: 0.0.2a
+Version: 0.0.2
 Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-basesystem-updater.deb
-Size: 1006
-MD5sum: d96d0b2c6d04c250139d97aa757d1392
-SHA1: 88262ffcc93b578604b25de7014da6ad5a067a77
-SHA256: 0013a75a4305eb1430187d0db8c359cec4629aae77e4de449cb111343b02a54a
+Size: 1004
+MD5sum: 190b591a17256bce5858e94a58e47ddd
+SHA1: 30a2ba2cd25d4f05a2388bd3a34e6b1aad8e8e7c
+SHA256: 89336289b53af4bf154bbe6b5ccb43b635d3ba04368e2e0700e2837589703b28
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
@@ -79,15 +79,15 @@ Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 EmulationStation-XNL Resources
 
 Package: sr36-grib
-Version: 0.0.1
+Version: 0.0.5
 Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-grib.deb
-Size: 44920
-MD5sum: 67f347ba0e34b3a173cd606a74535809
-SHA1: 529131610ea703f438f0334fc4f4743d55e5362a
-SHA256: 75f0fb6dea339042999dc05df9e4d3222668901c0833252a6a9454db256466ce
+Size: 44840
+MD5sum: 59706cfb08065972dd2a6c506ad30eb2
+SHA1: 69427ad034be1ad8addf5abdbff2550618673ee2
+SHA256: 55baef20afa443b34c44ca66ff4d85a0cfa5b3eecce34cc6bb0ae8067500c6d5
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
