@@ -43,36 +43,6 @@ Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 GPIO DTB Overlays Package
 
-Package: sr36-dtbs-displays
-Version: 1.0.0
-Architecture: arm64
-Protected: yes
-Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
-Filename: pool/main/sr36-dtbs-displays.deb
-Size: 4958
-MD5sum: 224575af560bdc92efbb25b95227cd69
-SHA1: 9c4dc369a0187d62d70da91fde655319b2873f3f
-SHA256: 35d5032f85cf31d68d93abf640df1b2229094cda71b98948ea9bd20bf4b957e4
-Section: sr36-system
-Priority: optional
-Homepage: http://www.teamxnl.com/SystemR36
-Description: The SystemR36 Display DTB Overlays Package
-
-Package: sr36-dtbs-gpio
-Version: 1.0.0
-Architecture: arm64
-Protected: yes
-Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
-Filename: pool/main/sr36-dtbs-gpios.deb
-Size: 1332
-MD5sum: 1117e0399013f59c47f5b2d92e64777c
-SHA1: 6f0d94c7893524f1042b79ad547957dc0462677d
-SHA256: 8d7dc8353f6906f027d48966826ac54c24ad7b0d1fe6d6eabb20581cd020dcd1
-Section: sr36-system
-Priority: optional
-Homepage: http://www.teamxnl.com/SystemR36
-Description: The SystemR36 GPIO DTB Overlays Package
-
 Package: sr36-emulationstation
 Version: 3.0.0
 Architecture: arm64
