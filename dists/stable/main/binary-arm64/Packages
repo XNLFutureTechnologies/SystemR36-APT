@@ -13,6 +13,36 @@ Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 Base Update System which can also pull-in NEW packages after the inital distro release when needed
 
+Package: sr36-dtbo-displays
+Version: 1.0.0
+Architecture: arm64
+Protected: yes
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36-dtbo-displays.deb
+Size: 5120
+MD5sum: 696713c9ceb843cde7549066ab84554a
+SHA1: 6d950b047419a9d2b69d4b359d58ebdb4a977608
+SHA256: 69576b94bf993178f3b91c7f53551bd8da364bdda3416b8258c635ed18f91010
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 Display DTB Overlays Package
+
+Package: sr36-dtbo-gpio
+Version: 1.0.0
+Architecture: arm64
+Protected: yes
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36-dtbo-gpios.deb
+Size: 1506
+MD5sum: ea829b2011d4ba0856c076fabf1e049c
+SHA1: 7ed3e63ebc712dbc72d0769ebb6f6102ce1a9984
+SHA256: 7c247bfad9ec7a1466a16380a703f05bfa79a3ce422f347a698c1b0673942d41
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 GPIO DTB Overlays Package
+
 Package: sr36-dtbs-displays
 Version: 1.0.0
 Architecture: arm64
