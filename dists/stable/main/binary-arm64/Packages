@@ -1,13 +1,13 @@
 Package: sr36-basesystem-updater
-Version: 0.0.2
+Version: 0.0.2a
 Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-basesystem-updater.deb
-Size: 1012
-MD5sum: 000e61c298b25c8c950f369c7ea834fa
-SHA1: f03087b33da3f473cc2208afd49d48796a8966c0
-SHA256: af12a889a31349c00a2d35b5069503b997b3d879f99b4e37d40521a19a3d9616
+Size: 1006
+MD5sum: d96d0b2c6d04c250139d97aa757d1392
+SHA1: 88262ffcc93b578604b25de7014da6ad5a067a77
+SHA256: 0013a75a4305eb1430187d0db8c359cec4629aae77e4de449cb111343b02a54a
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
