@@ -13,6 +13,36 @@ Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 Base Update System which can also pull-in NEW packages after the inital distro release when needed
 
+Package: sr36-dtbs-displays
+Version: 1.0.0
+Architecture: arm64
+Protected: yes
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36-dtbs-displays.deb
+Size: 4958
+MD5sum: 224575af560bdc92efbb25b95227cd69
+SHA1: 9c4dc369a0187d62d70da91fde655319b2873f3f
+SHA256: 35d5032f85cf31d68d93abf640df1b2229094cda71b98948ea9bd20bf4b957e4
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 Display DTB Overlays Package
+
+Package: sr36-dtbs-gpio
+Version: 1.0.0
+Architecture: arm64
+Protected: yes
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36-dtbs-gpios.deb
+Size: 1332
+MD5sum: 1117e0399013f59c47f5b2d92e64777c
+SHA1: 6f0d94c7893524f1042b79ad547957dc0462677d
+SHA256: 8d7dc8353f6906f027d48966826ac54c24ad7b0d1fe6d6eabb20581cd020dcd1
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 GPIO DTB Overlays Package
+
 Package: sr36-emulationstation
 Version: 3.0.0
 Architecture: arm64
@@ -79,15 +109,15 @@ Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 EmulationStation-XNL Resources
 
 Package: sr36-grib
-Version: 0.0.5
+Version: 1.0.0
 Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-grib.deb
-Size: 44840
-MD5sum: 59706cfb08065972dd2a6c506ad30eb2
-SHA1: 69427ad034be1ad8addf5abdbff2550618673ee2
-SHA256: 55baef20afa443b34c44ca66ff4d85a0cfa5b3eecce34cc6bb0ae8067500c6d5
+Size: 44910
+MD5sum: da1fe10fafc72d14640e49b136f77189
+SHA1: 10f4039460efb93c55b85de8f4aaab5161141599
+SHA256: 8dbbe67f0cd53aa7994b450906115949fb33b4daea87ee9a02c9d5afb346e734
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
