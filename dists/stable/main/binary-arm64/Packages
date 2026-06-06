@@ -63,6 +63,36 @@ Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 EmulationStation-XNL Resources
 
+Package: sr36-sdcard2-baselayout
+Version: 1.0.0
+Architecture: arm64
+Protected: yes
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36-sdcard2-baselayout.deb
+Size: 317474
+MD5sum: d36352f70a594ed8f5ac83a2982db8ce
+SHA1: 6a58f651364b0066be09380b902911ea2c8a4dc9
+SHA256: 6d11256405f65ae417bf2bc64587244489ecf239aff41bcfdf3d5fb86761d63f
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 SD-Card-2 Base Layout Archive
+
+Package: sr36-sdcard2-defaultbiossetup
+Version: 1.0.0
+Architecture: arm64
+Protected: yes
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36-sdcard2-defaultbiossetup.deb
+Size: 5765384
+MD5sum: e3a356b8af03e72fead1c0fba9ead286
+SHA1: e447f751173185ccc2fe9d5f07e51472c1773a8c
+SHA256: 34a9d3f40d13b3500fd5fee930a05e02fe29e3cf223f7b45349ed93952e6edde
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 SD-Card-2 Default BIOS Setup
+
 Package: sr36-sr36core
 Version: 0.0.3
 Architecture: arm64
