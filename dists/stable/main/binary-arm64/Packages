@@ -124,36 +124,30 @@ Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 GRiB Boot and Rescue Menu
 
 Package: sr36-retroarch
-Version: 166:1.22.2
+Version: 1.22.2
 Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
-Conflicts: retroarch
-Replaces: retroarch
-Provides: retroarch
 Filename: pool/main/sr36-retroarch.deb
-Size: 4385952
-MD5sum: eb790d93c927061997b40f7c24fccc05
-SHA1: e771e43a31abf2a0d69ce6bc8292de0482932dcd
-SHA256: 5aca580a6ca32a3f66fd574b8fe15f2e6b35ee1efb21bf4e8c44109948bebb93
+Size: 4385928
+MD5sum: 899658c87b0a38f0836b1e6404f39c87
+SHA1: c13a522750cbda25746c8751b07845923cb08f94
+SHA256: ff2d9a05154495f902e73a8d6bf181c68c02ddb3708c0f9daaad54f1c009823f
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 RetroArch ARM 64Bit
 
 Package: sr36-retroarch32
-Version: 166:1.22.2
+Version: 1.22.2
 Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
-Conflicts: retroarch32
-Replaces: retroarch32
-Provides: retroarch32
 Filename: pool/main/sr36-retroarch32.deb
-Size: 4157070
-MD5sum: 9a207b342d3c2cb21d55076784fffeeb
-SHA1: df17e907cc7933178b0c7c803baedf58588675f8
-SHA256: f4b4649386c2a93fd5d8c2d962a12fd2e19ad901f860287a755bbe77d725ca80
+Size: 4157046
+MD5sum: 78fe904cff245f146c5b2eae33d28f7f
+SHA1: 96ab2ae858adfd40c0ccb76b9242d3ae9b725e00
+SHA256: 5314480d5eaaf76d572fa2b3cc7324e30adb5cd44da459ec376a4ebec05e9bb9
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
