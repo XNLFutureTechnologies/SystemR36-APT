@@ -123,6 +123,42 @@ Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 GRiB Boot and Rescue Menu
 
+Package: sr36-retroarch
+Version: 1.22.2
+Architecture: arm64
+Protected: yes
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Conflicts: retroarch
+Replaces: retroarch
+Provides: retroarch
+Filename: pool/main/sr36-retroarch.deb
+Size: 4385946
+MD5sum: 8b214be1361bb9d3b127412208eadb05
+SHA1: 8c34ed8cd04ca4908ebcb18242fc0e9d5a4c4f9e
+SHA256: 98578fcaa99a845a0a1f0bb4c2f9fa51c14494a264872da5e5f964f70ec25ab8
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 RetroArch ARM 64Bit
+
+Package: sr36-retroarch32
+Version: 1.22.2
+Architecture: arm64
+Protected: yes
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Conflicts: retroarch32
+Replaces: retroarch32
+Provides: retroarch32
+Filename: pool/main/sr36-retroarch32.deb
+Size: 4157064
+MD5sum: 50d9767d199b689ff8e8e794d4dc88f7
+SHA1: 3e14007b34e987ba4bc8c7e35789c431a058bb38
+SHA256: 01dba93808721a816513ed00348a22fa66012fa4c77aa23e6285654a2c634a15
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 RetroArch ARM 32Bit
+
 Package: sr36-sdcard2-baselayout
 Version: 1.0.1
 Architecture: arm64
