@@ -114,10 +114,10 @@ Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-grib.deb
-Size: 44910
-MD5sum: da1fe10fafc72d14640e49b136f77189
-SHA1: 10f4039460efb93c55b85de8f4aaab5161141599
-SHA256: 8dbbe67f0cd53aa7994b450906115949fb33b4daea87ee9a02c9d5afb346e734
+Size: 45024
+MD5sum: 2816d8aced58f0b69df6d77d8f444f83
+SHA1: 00112c540e302ddc5945505ef0125ad83a1d4305
+SHA256: b9cc9261ca214ad57aafd50ede84a13ad0ffac391e2f4bed2c1c16394b968df1
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
@@ -212,4 +212,19 @@ Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 Core Daemon
+
+Package: sr36-sr36login
+Version: 1.0.0
+Architecture: arm64
+Protected: yes
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36-sr36login.deb
+Size: 48812
+MD5sum: 64ba86c052c5c20c2de6f25668852820
+SHA1: 28fd901aa0cec9278a7f09609d7cc6a3f2f9670a
+SHA256: 59599d8ad7738143ac236dd78a7b9a06846cbd890cd88534285b94b6daa1bfcd
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 Login System
 
