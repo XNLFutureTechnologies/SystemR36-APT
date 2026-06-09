@@ -53,10 +53,10 @@ Conflicts: emulationstation
 Replaces: emulationstation
 Provides: emulationstation
 Filename: pool/main/sr36-emulationstation.deb
-Size: 1543968
-MD5sum: ada369e47e359112747283aa6df042e1
-SHA1: 6c8c7113db171b9ed4020100550a41186c3567b5
-SHA256: 520897afd6f96422d6254c9a7218f3b9e50211e5210bbc923c01732cdbdcd953
+Size: 1543730
+MD5sum: 01c3761824ac5fb675bf31231ab220fb
+SHA1: d0cf6d3041b697807828ecb5568d0052515e50d0
+SHA256: 374d24d838311447eea0b1266b2b7bad60d379245316de203ab516d46f02d7da
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
@@ -114,10 +114,10 @@ Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-grib.deb
-Size: 45024
-MD5sum: 2816d8aced58f0b69df6d77d8f444f83
-SHA1: 00112c540e302ddc5945505ef0125ad83a1d4305
-SHA256: b9cc9261ca214ad57aafd50ede84a13ad0ffac391e2f4bed2c1c16394b968df1
+Size: 45266
+MD5sum: 316ef2f5753dce6a2f10030373f41ac3
+SHA1: f60427e1f9d2442e810ef67c2a789ff3dad01b24
+SHA256: 7b6e8675770025a9b59df3ac068e18622002f4690026485f4da8b133a5d79519
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
@@ -189,10 +189,10 @@ Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-sdcard2-defaultscreensavers.deb
-Size: 20632
-MD5sum: c9dcdba4e047ced0a6d1f5f8361cb85d
-SHA1: a6931db8c4e89ffef2091fbd14ef1b32a5ad1487
-SHA256: 80fc8973bbe6c3da409823c329d663230028f71d68feee21c61eae2872974e17
+Size: 21416
+MD5sum: 70eb6d5827bc9a42f30cb2bb746e5e3b
+SHA1: 2891db45c1593c7b14e8d53219b6965aa931b470
+SHA256: 5ecbff875b1703044a5ff99c859edaab76babfd737cb4dd2065c17203fcda17a
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
@@ -219,10 +219,10 @@ Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-sr36login.deb
-Size: 48812
-MD5sum: 64ba86c052c5c20c2de6f25668852820
-SHA1: 28fd901aa0cec9278a7f09609d7cc6a3f2f9670a
-SHA256: 59599d8ad7738143ac236dd78a7b9a06846cbd890cd88534285b94b6daa1bfcd
+Size: 49588
+MD5sum: f3da1bbf2c9fc820ec227e383cfafe4c
+SHA1: ba9a9a323047c2da2277cbe8191c6add2fc4e78c
+SHA256: dcf7298ee244a4cbdd776970cf34742f525b9f3e9d9c2f65af768e022a10c32a
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
