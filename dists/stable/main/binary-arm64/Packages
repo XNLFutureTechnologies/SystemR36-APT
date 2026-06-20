@@ -189,15 +189,15 @@ Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-sdcard2-defaultscreensavers.deb
-Size: 21450
-MD5sum: 9c6caca13ef0a986748be6ab83afcf8d
-SHA1: 6ae48205de014b6bd1835f257517de7356a759b3
-SHA256: 25a52fc66fe04e401eb4f5cc0fd2ef1449b73e69c54827c6bd00de28fffd58c2
+Size: 21460
+MD5sum: 82b738e600b81acf80bea2dda7771f14
+SHA1: b794092a719b44f22ff477dc683b5730a039ee2c
+SHA256: 805fb6cd3191ddcbf730c8ce279d50b941bccf9e1f78ed86e1bf1314c392a563
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 SD-Card-2 Default Screensavers
-Loftpreview: https://raw.githubusercontent.com/XNLFutureTechnologies/SystemR36-APT/main/LoftPreview/
+Xbs-Loftpreview: https://raw.githubusercontent.com/XNLFutureTechnologies/SystemR36-APT/main/LoftPreview/
 
 Package: sr36-sr36core
 Version: 0.0.3
