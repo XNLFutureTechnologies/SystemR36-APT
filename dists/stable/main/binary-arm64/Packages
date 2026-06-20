@@ -19,10 +19,10 @@ Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-dtbo-displays.deb
-Size: 5120
-MD5sum: 696713c9ceb843cde7549066ab84554a
-SHA1: 6d950b047419a9d2b69d4b359d58ebdb4a977608
-SHA256: 69576b94bf993178f3b91c7f53551bd8da364bdda3416b8258c635ed18f91010
+Size: 5124
+MD5sum: 2119ecdee676fba0ce5c7bcad38710eb
+SHA1: b005d68d9ba8132dcd7e2eb47fd4da3044ef7a0d
+SHA256: cb167836ce2406d7f6dec440de92707f0597e242b36ae798b9ff0afddc69e578
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
@@ -189,14 +189,15 @@ Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-sdcard2-defaultscreensavers.deb
-Size: 21416
-MD5sum: 70eb6d5827bc9a42f30cb2bb746e5e3b
-SHA1: 2891db45c1593c7b14e8d53219b6965aa931b470
-SHA256: 5ecbff875b1703044a5ff99c859edaab76babfd737cb4dd2065c17203fcda17a
+Size: 21450
+MD5sum: 9c6caca13ef0a986748be6ab83afcf8d
+SHA1: 6ae48205de014b6bd1835f257517de7356a759b3
+SHA256: 25a52fc66fe04e401eb4f5cc0fd2ef1449b73e69c54827c6bd00de28fffd58c2
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 SD-Card-2 Default Screensavers
+Loftpreview: https://raw.githubusercontent.com/XNLFutureTechnologies/SystemR36-APT/main/LoftPreview/
 
 Package: sr36-sr36core
 Version: 0.0.3
