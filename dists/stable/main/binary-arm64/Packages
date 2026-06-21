@@ -114,14 +114,15 @@ Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-grib.deb
-Size: 45404
-MD5sum: 7f09270b3bcd711377db3a19858406db
-SHA1: 535da2ca2cfc09db779739bf554a58d3a1135039
-SHA256: 6df9bf69744c15d92e02b77cb81969d9d4750efeef115633c328e51bbab9020f
+Size: 45450
+MD5sum: 809eb96ee8e40b95b1e206bd5dd07e62
+SHA1: 3f4a8ec88ceebdc8503a133d0a394d203f1732ae
+SHA256: e331f1face93a08f7152b826b38ed3ac906029424efef89183f92da14b444b57
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 GRiB Boot and Rescue Menu
+Loftpreview: https://raw.githubusercontent.com/XNLFutureTechnologies/SystemR36-APT/main/LoftPreview/
 
 Package: sr36-retroarch
 Version: 1.22.2
@@ -189,15 +190,15 @@ Architecture: arm64
 Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-sdcard2-defaultscreensavers.deb
-Size: 21460
-MD5sum: 82b738e600b81acf80bea2dda7771f14
-SHA1: b794092a719b44f22ff477dc683b5730a039ee2c
-SHA256: 805fb6cd3191ddcbf730c8ce279d50b941bccf9e1f78ed86e1bf1314c392a563
+Size: 21456
+MD5sum: 82954f2621f7b1f1ed5f4f478273d167
+SHA1: 91c4ef25e27f43c1fa9939231076ff797e806815
+SHA256: 8eeb0ef2d2af0eb51108df0034cd5388b040797f66770b8bb1eaf0eb579492e1
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 SD-Card-2 Default Screensavers
-Xbs-Loftpreview: https://raw.githubusercontent.com/XNLFutureTechnologies/SystemR36-APT/main/LoftPreview/
+Loftpreview: https://raw.githubusercontent.com/XNLFutureTechnologies/SystemR36-APT/main/LoftPreview/
 
 Package: sr36-sr36core
 Version: 0.0.3
