@@ -115,9 +115,9 @@ Protected: yes
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-grib.deb
 Size: 45450
-MD5sum: 809eb96ee8e40b95b1e206bd5dd07e62
-SHA1: 3f4a8ec88ceebdc8503a133d0a394d203f1732ae
-SHA256: e331f1face93a08f7152b826b38ed3ac906029424efef89183f92da14b444b57
+MD5sum: 33bd3805439aca81732dc5ac6b4d300c
+SHA1: 7c4aebf52384f123523d61324467b543735728ad
+SHA256: be5ded9975440ca569f6f9e8a7132287b57e469ffb1dcf969729f82879f04683
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
