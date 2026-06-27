@@ -1,0 +1,31 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: SystemR36
+Label: SystemR36 Stable Repository
+Suite: stable
+Codename: stable
+Architectures: arm64
+Components: main
+Description: The main update repository for SystemR36 (arm64)
+Date: Sat, 27 Jun 2026 01:50:44 +0000
+SHA256:
+ 556abf79afff776bc9eae03371730cb3daa51e667006178c87cb174fdad71d3f 8011 main/binary-arm64/Packages
+ a619271cd8b36bedcd2467f250c365b157f157520f73da8ed0db524462884b56 2299 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJKBAEBCgA0FiEErq41i0HYrr2kUaJhI8AOADDUEVYFAmo/LHQWHHN5c3RlbXIz
+NkB0ZWFteG5sLmNvbQAKCRAjwA4AMNQRVmk7D/9f8/oh/YbOBoCsWMAjmYX+UonN
+M3B9qhk+ySX56pn9kTnNI1FTdCrT+BgNeoEz9aIAWpodBZmRv5LebreKUx8ebW7V
+WcJgQgBNvGRqT/nuIyl+TzjBHPj9+wNE4n5S7FvR3+dbXSZW8Ex9DXOLkOO/NOSi
+45nI5vHygFi/aSdfxksZKXvTwYEr/0jObmro1ErhMVh5K59Irn12fo2csL90ZLct
+Zx4XcXdRl9aPo0xMpTykkkCl/4mG4+fW9UiCA15TaJhDmQbeKDsntkKYdY9zNgiQ
+5Ws0A1iVu86ExP9BPfescuwsO0DkYTz2U3CV7zrt4mv/xciYtnRXY8im+1YG4Imc
+eqvVcjSh7f2Vft7vU33xBoTLR1VdQ/5TMeq/XGrNYVM01fgSHPtOmk9Jk92ST4ee
+oK7TUpKh9N2M6MiKqflnc8+DwxVG3jtfne7ym8FgIaoAi/ybHmIh81mRT9xgAeJ1
+sy4JSe8cHdlGL79FJrdeqbArdIaoD1gkPST+11Sk6eBktPnG1bfUsX711paIGM95
+/fuCR95XPEOWBxYWGyT/1Pzlho9WVIMEOQdsMx7rB/fJw8xF5X5GP3d+uSBtYhS6
+azR/eW2PtavAQLpBXpt6EuWrycfw5KUigD+pRsp+YoBGqkPG4/CkzSScZHHrCHZ5
+3qa/E4UlRcfvQedtzA==
+=YoIb
+-----END PGP SIGNATURE-----
