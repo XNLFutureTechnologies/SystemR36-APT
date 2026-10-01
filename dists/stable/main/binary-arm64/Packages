@@ -124,6 +124,22 @@ Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 GRiB Boot and Rescue Menu
 Loftpreview: https://raw.githubusercontent.com/XNLFutureTechnologies/SystemR36-APT/main/LoftPreview/
 
+Package: sr36-loft
+Version: 1.0.0
+Architecture: arm64
+Protected: yes
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36-loft.deb
+Size: 142708
+MD5sum: 88dab394453ab795ee7317f046f26e8a
+SHA1: c9b4568881412e57d6d887375b147f7f359ab441
+SHA256: d5c7075802e8a337219bab98483afe6f46704d9b8e1a6bc23e4ccd21aa1b329e
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The Package Manager, Updater and Appstore of SystemR36
+Loftpreview: https://raw.githubusercontent.com/XNLFutureTechnologies/SystemR36-APT/main/LoftPreview/
+
 Package: sr36-retroarch
 Version: 1.22.2
 Architecture: arm64
