@@ -128,12 +128,13 @@ Package: sr36-loft
 Version: 1.0.0
 Architecture: arm64
 Protected: yes
+Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-loft.deb
-Size: 142708
-MD5sum: 88dab394453ab795ee7317f046f26e8a
-SHA1: c9b4568881412e57d6d887375b147f7f359ab441
-SHA256: d5c7075802e8a337219bab98483afe6f46704d9b8e1a6bc23e4ccd21aa1b329e
+Size: 142718
+MD5sum: 80b74ed5bc7265948d2e008bb0283ab8
+SHA1: 7a371febf3cf88ea803506949089111ade5b6922
+SHA256: f53921e51c9c6e6ce9657aea22aec9f354d67205ed9c9a4b9cd762fee7a69e4e
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
