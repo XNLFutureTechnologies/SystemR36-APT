@@ -237,10 +237,10 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-sr36core.deb
-Size: 40324
-MD5sum: 1949f117dcd495bb6a0b32a87ed6784f
-SHA1: ad2ae1e4954f7741bbce07e2b5fbf1319ae35d05
-SHA256: a7509f730e630211cbb85b22b5b1de6659b9bc4983db7bcc4fe0757e36f10387
+Size: 39418
+MD5sum: fb732116efb40b01f6d58c4ece90c189
+SHA1: 371364c51389dbb7d272ce2ca3892c2d08cb0041
+SHA256: d18e762466dabac4101fc6cf1d83754f317237a6f73c18438cc402b148881387
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
