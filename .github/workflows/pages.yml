@@ -1,0 +1,40 @@
+name: Deploy APT Repository to GitHub Pages
+
+on:
+  push: 
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# This automatically cancels older builds if a new push comes in
+concurrency:
+  group: "pages-deployment"
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for batch updates to finish (Debounce)
+        # Sleeps for 300 seconds. If a new push happens, this job gets 
+        # cancelled and a fresh 5-minute timer starts for the latest push.
+        run: sleep 300
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
