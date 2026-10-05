@@ -5,7 +5,7 @@ Codename: stable
 Architectures: arm64
 Components: main
 Description: The main update repository for SystemR36 (arm64)
-Date: Sun, 04 Oct 2026 23:55:36 +0000
+Date: Mon, 05 Oct 2026 00:06:06 +0000
 SHA256:
- 510fca97c1f079d25af6e33ceb01b8ece2319a11f54494753bdaf9ddce857dbc 9113 main/binary-arm64/Packages
- 0444ac6902af46834f484b6ad50230ec4b8b2931d1ef0532b58ce44447465b71 2454 main/binary-arm64/Packages.gz
+ a1a1037da4bea4a743ae74cef26d7a6321b6c43492511b06dc817160f16f31c6 9113 main/binary-arm64/Packages
+ 3893650775835b0ac635520cdc63b386356e5ff9da06122efff7cae311091826 2451 main/binary-arm64/Packages.gz
