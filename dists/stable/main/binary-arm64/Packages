@@ -274,10 +274,10 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-sr36taskman.deb
-Size: 84534
-MD5sum: 0d28aaa42126240d3d76d5455113a2bc
-SHA1: eb1b1f5d084a98d0ef680a96fa4bcb799486c51d
-SHA256: e18261d8b4895810c05efadde2bfbcb185fd683a437d918268c66978b4adc1d8
+Size: 84538
+MD5sum: 6f617c84b5fa2daff12aa8b968079f83
+SHA1: a10616704b52773dc372a38ca5a1a980e0c0ff28
+SHA256: ecad51ccf5b07490b8bf8ff282b0c8c5800ee6c61f4ce91eb1cf5369880492fd
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
