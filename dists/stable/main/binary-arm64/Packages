@@ -37,14 +37,15 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-dtbo-gpios.deb
-Size: 1510
-MD5sum: d5863ef8f7f327f935f486bdbed333bf
-SHA1: 71de35932c082859c0dfe9be4b6750617b603f8d
-SHA256: d8ef6b18ceab56b7775f93371682cf6a7035bf08086ec962cb31d6cda4e8d8df
+Size: 1542
+MD5sum: 647283be32f2c286b8bd50ccfd55bc1f
+SHA1: 72ab8ed9badc093e5bd2fe73f93474cae020a227
+SHA256: 66f7c695ac9b1261dea4d75bd94a498c570117f0a96120c4500362acf3a7059b
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 GPIO DTB Overlays Package
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
 
 Package: sr36-emulationstation
 Version: 3.0.0
@@ -57,14 +58,15 @@ Conflicts: emulationstation
 Replaces: emulationstation
 Provides: emulationstation
 Filename: pool/main/sr36-emulationstation.deb
-Size: 1537874
-MD5sum: f62a47a2aca79d6d0589d99454ad119b
-SHA1: fe760a4f716f9f13ebdf2341c404b216ba20cd69
-SHA256: e6036b3e946785a632219baaee5417865ae576f853035d322c7b8bef08967100
+Size: 1537908
+MD5sum: 25a96af923ad227d4252f8d92eb86193
+SHA1: 1bb8ae3c9fd9ea4f5a1345b132970ce9f02649e7
+SHA256: 449ff75e0f8bbf9a025889650cdbf81cef3892eedc5ec60f4e64861f692468bd
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 EmulationStation-XNL
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
 
 Package: sr36-emulationstation-config
 Version: 3.0.0
@@ -122,15 +124,15 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-grib.deb
-Size: 45458
-MD5sum: 50cc9c69e6649075588bd05d4667060c
-SHA1: 10a7efa87d9f13a20f1be2745dec0b241a398aef
-SHA256: b0680e1644f023cee9bcf96bdba90e5923c1d2e4a689cc1200a087125dde5c7b
+Size: 45434
+MD5sum: d2d252773446a3e2ee7a1e5b68669c5c
+SHA1: 1b6ebeaeff1fb77448551705446d96e24ed1c960
+SHA256: 95dc590fdb1cdceccff1403412755649d129ed01712f020236ab0b75d7cb881e
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 GRiB Boot and Rescue Menu
-Loftpreview: https://raw.githubusercontent.com/XNLFutureTechnologies/SystemR36-APT/main/LoftPreview/
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
 
 Package: sr36-loft
 Version: 1.0.0
@@ -139,15 +141,15 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-loft.deb
-Size: 142474
-MD5sum: 438e5f732aae418b9d695da7e51c7e15
-SHA1: 58f99bf654b1ea3029952adc57c9348a151e5d54
-SHA256: bb0c35e28619f75a45288591dec9590e35b97147184395725d1fc2e0c025de41
+Size: 143072
+MD5sum: e4279c3213b1abec37b1a9cb6d38e40c
+SHA1: c55145b8895f838144b4707842ecc89a5f7c2fd9
+SHA256: 305c3eb200508aaa6e76da8fb4500c1a7d1da10137bbb99596726cfac3457516
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The Package Manager, Updater and Appstore of SystemR36
-Loftpreview: https://raw.githubusercontent.com/XNLFutureTechnologies/SystemR36-APT/main/LoftPreview/
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
 
 Package: sr36-retroarch
 Version: 1.22.2
@@ -156,14 +158,15 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-retroarch.deb
-Size: 4374102
-MD5sum: 18bc178c19805120929f9ad77889bba8
-SHA1: bfa378263ccf744dad3b7e900d21a294d3243add
-SHA256: bff95f9d4aadbf9ba2019ea89532576d04c64edd4e50960a62ceaabf8e99d508
+Size: 4374128
+MD5sum: 436eadbe4b79f6ae55849eda63b40fd0
+SHA1: be5000f3405ca70812eea93b76e0466fcb01a82c
+SHA256: 4125eadd84d033e795865b970d294e3ff59aa7aaf92157fe90c7f56114378702
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 RetroArch ARM 64Bit
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
 
 Package: sr36-retroarch32
 Version: 1.22.2
@@ -172,14 +175,15 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-retroarch32.deb
-Size: 4150234
-MD5sum: 55178826d667e95dd4563ae132c8399c
-SHA1: 84c99858e06e895659758d066eac6dcafc1d83e2
-SHA256: ee9206cf5bfe3ec44268e90bcaa4270a0f25f161a0de384c7719c0f07d3df553
+Size: 4150262
+MD5sum: eb7059748e02a29fc8702dbd2156d7b9
+SHA1: eba31e85a00d071baa395a022498f34f94cacdf0
+SHA256: 4e077a458b7bef149bcae93c5f2664505082f214de42d4f0b3709b8deabf4a64
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 RetroArch ARM 32Bit
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
 
 Package: sr36-sdcard2-baselayout
 Version: 1.0.1
@@ -220,15 +224,15 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-sdcard2-defaultscreensavers.deb
-Size: 21546
-MD5sum: 5671a263bb4b46699bebbb145e10e697
-SHA1: a3de931362923136a2d66141c2a3ab3af514f840
-SHA256: c66cab6c6c8b91dfd4f6796d551d801b414e87547f4ad7b685b771c461fdd2f6
+Size: 21524
+MD5sum: 30b527b5b59fbbd26dee9f1a63a540a7
+SHA1: 0ad71453f3191de8a04886602bc732860c40a7d1
+SHA256: b3c4b382e5f0ed0955767e3db9e728253688e35a5e9a34d6da792698f764dcc5
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 SD-Card-2 Default Screensavers
-Loftpreview: https://raw.githubusercontent.com/XNLFutureTechnologies/SystemR36-APT/main/LoftPreview/
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
 
 Package: sr36-sr36core
 Version: 1.0.0
@@ -253,14 +257,15 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-sr36login.deb
-Size: 49490
-MD5sum: 0818798449f16807d8bcf9c8a054ff93
-SHA1: d9a82961026e99d815187c3a57f2a1fa96541529
-SHA256: 089d8511e8d20284fe1243c23e37141a51c2f4819461fc5d56b40ae125f7dafa
+Size: 49516
+MD5sum: b2b774061a4a9c607dc47251b9cf8743
+SHA1: 55e313d479221841844d068a607c2194473fd6a3
+SHA256: eebc82bcf5fccf717aead9ee6219c2d74b9d1823f775a09c5d846d45db2f5d9e
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 Login System
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
 
 Package: sr36-sr36taskman
 Version: 1.0.0
@@ -269,13 +274,13 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-sr36taskman.deb
-Size: 84724
-MD5sum: f5dc79c63bc759e0c11f710a7d20ac27
-SHA1: 2f4232ed711487d0fc9c85dd7645d2421a3e91ef
-SHA256: 61b22ab42e851abdf389cbc62e0198900d4ff44e12da7bfde70c0c7ffd164499
+Size: 84702
+MD5sum: 7527ce6435daed9ae87a15083802e9e5
+SHA1: cbe7476bd3fe0515dbf58985c2f023bd0382f4f5
+SHA256: fa1120b0e2fc97b2cb6cda13b1e7c7c285a54c645f39931ae33812f40d270baf
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 Task Manager and System Monitor
-Loftpreview: https://raw.githubusercontent.com/XNLFutureTechnologies/SystemR36-APT/main/LoftPreview/
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
 
