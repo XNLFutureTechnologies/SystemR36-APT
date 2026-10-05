@@ -262,3 +262,20 @@ Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 Login System
 
+Package: sr36-sr36taskman
+Version: 1.0.0
+Architecture: arm64
+Protected: yes
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36-sr36taskman.deb
+Size: 84724
+MD5sum: f5dc79c63bc759e0c11f710a7d20ac27
+SHA1: 2f4232ed711487d0fc9c85dd7645d2421a3e91ef
+SHA256: 61b22ab42e851abdf389cbc62e0198900d4ff44e12da7bfde70c0c7ffd164499
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 Task Manager and System Monitor
+Loftpreview: https://raw.githubusercontent.com/XNLFutureTechnologies/SystemR36-APT/main/LoftPreview/
+
