@@ -58,10 +58,10 @@ Conflicts: emulationstation
 Replaces: emulationstation
 Provides: emulationstation
 Filename: pool/main/sr36-emulationstation.deb
-Size: 1537908
-MD5sum: 25a96af923ad227d4252f8d92eb86193
-SHA1: 1bb8ae3c9fd9ea4f5a1345b132970ce9f02649e7
-SHA256: 449ff75e0f8bbf9a025889650cdbf81cef3892eedc5ec60f4e64861f692468bd
+Size: 1538316
+MD5sum: 5c273d5097d7c8480c5375567d222800
+SHA1: a4f0b3ee4def126ca7590e9bc3b4fe341b76931b
+SHA256: f5f6594ca6284b677506ed98488aca0baa4b997e2426f5d9b927b994b7aa33c8
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
@@ -75,10 +75,10 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-emulationstation-config.deb
-Size: 10228
-MD5sum: 7831d0ee4dfacbdc935a34a075366b0f
-SHA1: f25656dc6d71edded450b843c13bea555ea84196
-SHA256: abc3b4727d2dfb9a696b79eaffa7c33f61f9f9d1823ba5d0ae93f4ac8858ed17
+Size: 10226
+MD5sum: 1ca90bc8bf4d2ea1cad4049c756efd4e
+SHA1: 3ea38e0d942a1f54ba57527c92d5d4ba22ef629c
+SHA256: 88e9873bf07f9f1b57bfb88b3d2b7e3bf1e25be4c557ba5f69d20e9fd7f77b67
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
@@ -124,10 +124,10 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-grib.deb
-Size: 45434
-MD5sum: d2d252773446a3e2ee7a1e5b68669c5c
-SHA1: 1b6ebeaeff1fb77448551705446d96e24ed1c960
-SHA256: 95dc590fdb1cdceccff1403412755649d129ed01712f020236ab0b75d7cb881e
+Size: 45498
+MD5sum: c3c319d321b49fb34f5ba87b91acd4d0
+SHA1: 6ec78cec0da522e1e0a13c222600848a65ed250d
+SHA256: caa280dcb08d6c764322153fdbdca740dd065e8e90d384e85bb4f0c1055b13e7
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
