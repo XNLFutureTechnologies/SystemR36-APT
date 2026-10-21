@@ -151,6 +151,23 @@ Homepage: http://www.teamxnl.com/SystemR36
 Description: The Package Manager, Updater and Appstore of SystemR36
 Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
 
+Package: sr36-pmjs
+Version: 2026.10.20
+Architecture: arm64
+Protected: yes
+Origin: XNL Future Technologies
+Maintainer: bbbreaddd <pmjs-maintainerproxy@teamxnl.com>
+Filename: pool/main/sr36-pmjs.deb
+Size: 38318622
+MD5sum: c7341fbfb3302eb0afee373779273f45
+SHA1: ec4336bb6238da2a2410d60c86adf9653571b870
+SHA256: 14289389f4a00542e6d8f4af37e32dbe318d566f506d9c58d4a6eb1e5bc58f8c
+Section: sr36-system
+Priority: optional
+Homepage: https://github.com/bbbreaddd/pmjs
+Description: The SystemR36 RPG Maker MV/MZ engine calles pmjs by bbbreaddd
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
 Package: sr36-retroarch
 Version: 1.22.2
 Architecture: arm64
@@ -192,10 +209,10 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-sdcard2-baselayout.deb
-Size: 299542
-MD5sum: c48e8f8a7b947f51559cd4b42152e842
-SHA1: 5ed23a69612c6db761e18158a22ebaf605025136
-SHA256: 75b672070a12bbb81285ba4cc635a915e70134a0ec25e8eabe3f2e9a994706a6
+Size: 301188
+MD5sum: c0b1ab330a6e18866f194f0a41ba84f0
+SHA1: 917bd4746d79df437b8241accbc48cb7d56bc996
+SHA256: 178f13e8bdffe4b8a2ec82874bf7b580d08eb0e8c03bdfc1091ea1ea86f987bd
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
