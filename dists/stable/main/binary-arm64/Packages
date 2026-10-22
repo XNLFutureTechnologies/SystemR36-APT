@@ -75,10 +75,10 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-emulationstation-config.deb
-Size: 10226
-MD5sum: 1ca90bc8bf4d2ea1cad4049c756efd4e
-SHA1: 3ea38e0d942a1f54ba57527c92d5d4ba22ef629c
-SHA256: 88e9873bf07f9f1b57bfb88b3d2b7e3bf1e25be4c557ba5f69d20e9fd7f77b67
+Size: 10210
+MD5sum: cac43cdfa6b2ab53745846f207b38aee
+SHA1: def90fb6f9c15dff710b079eaa0b0262455f22e3
+SHA256: 5a56e7b3febdc152ce4bbb8d383884b9ca8e4658ce55a2b2dddf9ef2b4e8b492
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
