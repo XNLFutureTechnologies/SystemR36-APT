@@ -141,10 +141,10 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-loft.deb
-Size: 143110
-MD5sum: abe357369e9808ed69fd9dd6796061e8
-SHA1: d943790175d3ee275a27c1fdc6249be205149d16
-SHA256: b3bbab07e45d00d563581b5c2a1845016399d56949da0998f6e07aebd4aaa739
+Size: 143070
+MD5sum: 49ac118c67b10d07a9b3d5c2246032ec
+SHA1: b9992ed60df528ce75e5190c8ff0c158cbdb4a97
+SHA256: 830d6a5af30cf3d7704e565c4da7e55cc1566e74c71446a579371a1a58f4e8ed
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
