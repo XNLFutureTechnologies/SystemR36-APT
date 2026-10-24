@@ -141,10 +141,10 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-loft.deb
-Size: 143072
-MD5sum: e4279c3213b1abec37b1a9cb6d38e40c
-SHA1: c55145b8895f838144b4707842ecc89a5f7c2fd9
-SHA256: 305c3eb200508aaa6e76da8fb4500c1a7d1da10137bbb99596726cfac3457516
+Size: 143110
+MD5sum: abe357369e9808ed69fd9dd6796061e8
+SHA1: d943790175d3ee275a27c1fdc6249be205149d16
+SHA256: b3bbab07e45d00d563581b5c2a1845016399d56949da0998f6e07aebd4aaa739
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
@@ -299,5 +299,141 @@ Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 Task Manager and System Monitor
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36t-xnl-arcade-amber
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36t-xnl-arcade-amber.deb
+Size: 5728662
+MD5sum: 9af8b6056ae848d81bffc3d2317ad143
+SHA1: 19d86d72c9d83886b1b9e3ad6250108497f7b22a
+SHA256: e91f039d8584c00e3064999f0cd5741f61691896f39eb086bec49202485222db
+Section: sr36-es-themes
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 EmulationStation-XNL Amber Theme, which is also the same color style as the OG TeamXNL Community colors back then
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36t-xnl-arcade-blue
+Version: 1.0.0
+Architecture: arm64
+Protected: yes
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36t-xnl-arcade-blue.deb
+Size: 5732030
+MD5sum: e722f57815992aa39172a13fffd4303f
+SHA1: f9a81bf61ff2a6a69e5778ee906083dd47dc4cc0
+SHA256: 38f18436951f5ecdc27a29370249abbd441c1fd7ee77ed76f72abd110b3b0c96
+Section: sr36-system
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 EmulationStation-XNL Blue Theme, this one has the XNL Ft. colors and is also the default system theme which should not be removed
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36t-xnl-arcade-dark
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36t-xnl-arcade-dark.deb
+Size: 5719618
+MD5sum: 1d0834138dc5aad0a151bfc22c406ee5
+SHA1: 83179ec3a85392c2bde5bff065d8312aa23a0abc
+SHA256: db55b4bf6a7e5b478f33f9ad2abc5d030692d6adfd24f8c76e122c5655b14338
+Section: sr36-es-themes
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 EmulationStation-XNL Dark Theme
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36t-xnl-arcade-green
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36t-xnl-arcade-green.deb
+Size: 5728324
+MD5sum: 15189e29908b6af90557eb97b107f5e7
+SHA1: 00ea23018f00d6dffae8f882c82f2f6387730072
+SHA256: ffe2bb3bac30dd7fe2d1e9ae701bc1259ad7af7bdd4658b0799f4f4946179f15
+Section: sr36-es-themes
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 EmulationStation-XNL Green Theme
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36t-xnl-arcade-pink
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36t-xnl-arcade-pink.deb
+Size: 5721526
+MD5sum: c6279a06185b84d4ce60c81f79ce9b7c
+SHA1: df690962d23eec3f36bb1f0a5ef93efe4b564cfb
+SHA256: cf8b4deb803d8a5cb574b43b6f878e743bdc0cbcf7c0e149fbe169e7755db666
+Section: sr36-es-themes
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 EmulationStation-XNL Pink Theme
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36t-xnl-arcade-red
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36t-xnl-arcade-red.deb
+Size: 5724444
+MD5sum: 182052c5f0fac1443ed1d9ee00dd7723
+SHA1: 13561e6674c34b607aaacf0f35b04293b41cdb58
+SHA256: 72577e7e363bcb18147e4d2cdd760f0814dfb2b68ad1468cc05154d87d120f30
+Section: sr36-es-themes
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 EmulationStation-XNL Red Theme
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36t-xnl-arcade-xmas
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36t-xnl-arcade-xmas.deb
+Size: 5686818
+MD5sum: 39374a84387fdf3d8d253e0ef9efe625
+SHA1: d639802595b87c75371d7025bd3d3572f2f63ca6
+SHA256: 355f6d4d1436fd9ffd4668fc861e628bf7958617880994abc02ccbf20cd93f88
+Section: sr36-es-themes
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 EmulationStation-XNL 8-Bit Sophie The Pigeon Christmas Theme
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36t-xnl-sr36-blue
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36t-xnl-sr36-blue.deb
+Size: 5690336
+MD5sum: 358e52603bf2bfb918b5b85861efe4fd
+SHA1: a288c03047e563a319d9e18e20edd755d922e515
+SHA256: 251bde580f6dd782cb132aa9a2cea43f11535aa1f6767f7bf3ccbcc4092794ec
+Section: sr36-es-themes
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The SystemR36 EmulationStation-XNL Theme, which has the SystemR36 logo at the main screen, other than this it's the same theme as the XNL Arcade Blue theme. This is the theme we internally use on development R36 units.
 Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
 
