@@ -209,10 +209,10 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-sdcard2-baselayout.deb
-Size: 268996
-MD5sum: fd1b6c6ca38c65fb77575f80ad09464a
-SHA1: 84c6adf20fae1b513aa49229dc9013f448fc2537
-SHA256: 7706b375504543abc83f27ad0772ac3b85cc606e45d2133c041f18576aeb7347
+Size: 273476
+MD5sum: d3e9b5646aa3d6167fae740700b1be4c
+SHA1: b1934e46c5a0bd9573e64fb813f65f2e6b875aa7
+SHA256: 960f79f4e25d00362904424e470b35d9aeefb34745eb503c2e920300c00f6e90
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
