@@ -141,10 +141,10 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-loft.deb
-Size: 143598
-MD5sum: 067315fb9295bdfb37323753c5e37f47
-SHA1: 46e1872b77c83c8f2857c24c4308fe0b8ada2178
-SHA256: b13b184ee0aff69df51be10dfbfe5a3115959990fff9ca717ea2bbd393405fc0
+Size: 143930
+MD5sum: d96d6b8c28fd01236aba66d85a2f5cc5
+SHA1: 2e013013283c6f82393bbad575563b03731d4bd8
+SHA256: f499c7d1b2dac9a5684921f9da079e2976f56d90ec74e450036d470150f964af
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
@@ -291,10 +291,10 @@ Protected: yes
 Origin: XNL Future Technologies
 Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
 Filename: pool/main/sr36-sr36taskman.deb
-Size: 84538
-MD5sum: 6f617c84b5fa2daff12aa8b968079f83
-SHA1: a10616704b52773dc372a38ca5a1a980e0c0ff28
-SHA256: ecad51ccf5b07490b8bf8ff282b0c8c5800ee6c61f4ce91eb1cf5369880492fd
+Size: 85428
+MD5sum: 134db6aa30c0b07baf0551675406b59a
+SHA1: 1d692e9874da77400e24aad2b175561375786a17
+SHA256: 231efef3c1be94433437f7b927fb0cc80227f11e5abb4931188680d235bd5865
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
