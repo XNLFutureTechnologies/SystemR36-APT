@@ -301,6 +301,244 @@ Homepage: http://www.teamxnl.com/SystemR36
 Description: The SystemR36 Task Manager and System Monitor
 Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
 
+Package: sr36b-xnl-mac7
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36b-xnl-mac7.deb
+Size: 22324
+MD5sum: 27e6a4ebf147e3b89247d6721a2bb953
+SHA1: 26d5f6664810476489de6f684e3224d4f34a8802
+SHA256: 748f62dad0e52e9c42cc451eb7d421027931b9083d5ac2a06946945397eb14cb
+Section: sr36-os-customization
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The Optional SystemR36 Mac7 Themed Plymouth (bootscreen). TIP: You can preview and activate new Plymouth screens via the SystemR36 Configuration Panel
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36b-xnl-mac7tux
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36b-xnl-mac7tux.deb
+Size: 35112
+MD5sum: 7fd8b4fa7d5ec06cbe239fc970454664
+SHA1: bc0ef4a699e8538457050d88b2813225f66c119b
+SHA256: 983d33af37e16b2b67a7a14503e6a95d38089c3d7d38827e57164cb9e536ca73
+Section: sr36-os-customization
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The Optional SystemR36 Mac7 Tux Themed Plymouth (bootscreen). TIP: You can preview and activate new Plymouth screens via the SystemR36 Configuration Panel
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36b-xnl-mac7twoface
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36b-xnl-mac7twoface.deb
+Size: 24422
+MD5sum: 60549ce94e2fd10c3e6d8b14e9921110
+SHA1: 68515773ce96491e52d1d35d28d78245f06dce78
+SHA256: 4ff6b1df1f6e6c86c2c21c6d1eb2b1d8c7f86268aeee25026f079deadf059045
+Section: sr36-os-customization
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The Optional SystemR36 Mac7 TwoFace Themed Plymouth (bootscreen). TIP: You can preview and activate new Plymouth screens via the SystemR36 Configuration Panel
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36b-xnl-mac8
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36b-xnl-mac8.deb
+Size: 73396
+MD5sum: 9e21a9b676d71ca6ec1eedad4323f2d5
+SHA1: dd575c0e91cc6835eacf3344c1f3a3ccb2dae4a4
+SHA256: 5da9337467619673972290eafeeeeb14fed20003250c3e3e055ff75dc71969f0
+Section: sr36-os-customization
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The Optional SystemR36 Mac8 Themed Plymouth (bootscreen). TIP: You can preview and activate new Plymouth screens via the SystemR36 Configuration Panel
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36b-xnl-mac8tux
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36b-xnl-mac8tux.deb
+Size: 86896
+MD5sum: 7a259d260aa4f4e5114c0ee2525acc3d
+SHA1: 8c43f2f3e1175e2ac119ae8889fe8a367fdbc1d8
+SHA256: 6ae711dfc759be11f79e488cb29430dfb263c1bde50667f4a131881d2e276d58
+Section: sr36-os-customization
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The Optional SystemR36 Mac8 Tux Themed Plymouth (bootscreen). TIP: You can preview and activate new Plymouth screens via the SystemR36 Configuration Panel
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36b-xnl-mac8twoface
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36b-xnl-mac8twoface.deb
+Size: 90098
+MD5sum: bbffed2f9f6f851aa1393169e8cc55a6
+SHA1: bb4359e1b94693edcffa04a4cb303ec0cbc19dc1
+SHA256: a08174e35803d83bdf0ca8116b4f6f1133ab053730981526af50148203b8011d
+Section: sr36-os-customization
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The Optional SystemR36 Mac8 TwoFace Themed Plymouth (bootscreen). TIP: You can preview and activate new Plymouth screens via the SystemR36 Configuration Panel
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36b-xnl-sophiexmas
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36b-xnl-sophiexmas.deb
+Size: 31958
+MD5sum: 4ca1c35873f5e3c3ad6017e7c4d0028c
+SHA1: d88411ace150b3592641201832d08f7be7c622cf
+SHA256: 87229a7c6e2a39ff61743ba44ab2e52a5d4aae97c6f58e8ab1ac9e8d703f6296
+Section: sr36-os-customization
+Priority: optional
+Homepage: http://sophie.teamxnl.com
+Description: The Optional SystemR36 Sophie The Pigeon 8-Bit Christmas themed Plymouth (bootscreen). Sophie The Pigeon is the official mascot of SystemR36. TIP: You can preview and activate new Plymouth screens via the SystemR36 Configuration Panel
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36b-xnl-win2000
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36b-xnl-win2000.deb
+Size: 89110
+MD5sum: dbde460564de6b7983628ed07c4dbd88
+SHA1: aa1065ed0d821bd8d1b6bf95833adc80b4d0d3db
+SHA256: 535cec1de38cebf40f01313eb2fb65438bbf6ccb7594c4f3f50c214c1b658970
+Section: sr36-os-customization
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The Optional SystemR36 Win2000/W2K Themed Plymouth (bootscreen). TIP: You can preview and activate new Plymouth screens via the SystemR36 Configuration Panel
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36b-xnl-win3
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36b-xnl-win3.deb
+Size: 41642
+MD5sum: 675b73288ba4f33a45b92270b1a6cb04
+SHA1: 0394170abe58ce658dd19f5d6bc35b5cd28cf637
+SHA256: c0453ff86eb90487b8f4db337c60959ff1054e417689f95b39efc99507a7aac3
+Section: sr36-os-customization
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The Optional SystemR36 Win 3x Themed Plymouth (bootscreen). TIP: You can preview and activate new Plymouth screens via the SystemR36 Configuration Panel
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36b-xnl-win3tux
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36b-xnl-win3tux.deb
+Size: 63700
+MD5sum: 50417192eca0747a926e01687c38a7ca
+SHA1: 8de7cce6e11fd2ae8a80f3145adc738d6d52b5a9
+SHA256: a94f0e13ad030765cb5c783f150ab1fe79a21e4c10111b362dde3cc8faad1f35
+Section: sr36-os-customization
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The Optional SystemR36 Win 3x Tux Themed Plymouth (bootscreen). TIP: You can preview and activate new Plymouth screens via the SystemR36 Configuration Panel
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36b-xnl-win98
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36b-xnl-win98.deb
+Size: 286776
+MD5sum: 47fee404e61e590ffb86e35d993c07eb
+SHA1: 1d9f65fc7b0b0ef5cc56c17ed07f2b615e4e2d3c
+SHA256: 66927b27a558fa7d482c491ada9ff6fc294ad123a7b8a373c872a568f1c94044
+Section: sr36-os-customization
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The Optional SystemR36 Win 98/9X Themed Plymouth (bootscreen). TIP: You can preview and activate new Plymouth screens via the SystemR36 Configuration Panel
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36b-xnl-winxphome
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36b-xnl-winxphome.deb
+Size: 40606
+MD5sum: c1bfa96dbd2c48a70132e62a141754e1
+SHA1: 4c69e56661b27334e2c8600882cf675da2ff6007
+SHA256: 934e45853cb806e4ce0c73363df1b9900dea39f38edcd6807952e25848674efe
+Section: sr36-os-customization
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The Optional SystemR36 WinXP Home Themed Plymouth (bootscreen). TIP: You can preview and activate new Plymouth screens via the SystemR36 Configuration Panel
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36b-xnl-winxppro
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36b-xnl-winxppro.deb
+Size: 41258
+MD5sum: f643539b678195f843a0467c0fdea4f0
+SHA1: 397dccff651109c52539559911068a501df532b0
+SHA256: e906bce5148dd14da335bd2993320ed5f129cfb93c52db47fbb00670bbd21fd3
+Section: sr36-os-customization
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The Optional SystemR36 WinXP Pro Themed Plymouth (bootscreen). TIP: You can preview and activate new Plymouth screens via the SystemR36 Configuration Panel
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
+Package: sr36b-xnl-winxpretro
+Version: 1.0.0
+Architecture: arm64
+Protected: no
+Origin: XNL Future Technologies
+Maintainer: XNL Future Technologies <systemr36@teamxnl.com>
+Filename: pool/main/sr36b-xnl-winxpretro.deb
+Size: 42172
+MD5sum: 5952efda338c0135193cbd4612f7e049
+SHA1: c0c024e3164a59acd5051e590391d2aa1c829194
+SHA256: db5f2068f4c624f22753bb8636e37b6d4a9774b4fef59a7b2345d396f2727348
+Section: sr36-os-customization
+Priority: optional
+Homepage: http://www.teamxnl.com/SystemR36
+Description: The Optional SystemR36 WinXP Retro Themed Plymouth (bootscreen). TIP: You can preview and activate new Plymouth screens via the SystemR36 Configuration Panel
+Loftpreview: https://systemr36-updates.teamxnl.com/LoftPreview/
+
 Package: sr36t-xnl-arcade-amber
 Version: 1.0.0
 Architecture: arm64
