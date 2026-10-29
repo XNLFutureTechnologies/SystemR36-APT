@@ -8,24 +8,24 @@ Codename: stable
 Architectures: arm64
 Components: main
 Description: The main update repository for SystemR36 (arm64)
-Date: Thu, 29 Oct 2026 01:26:04 +0000
+Date: Thu, 29 Oct 2026 02:34:07 +0000
 SHA256:
- 0299ff35bbf9eb4802f2af1b1d2fe3ff33d905074ea8de87eb479566dfc1e340 25732 main/binary-arm64/Packages
- 15d8cab7f43303041fb7d723c16f7d28dc8d6f2f958643870e637012cb0ffacd 5645 main/binary-arm64/Packages.gz
+ 0a7d2996def21d81fe2ad1b19b4b23da50cf7188485f5f9b555550a2c532c01b 25732 main/binary-arm64/Packages
+ 80edf67cd86b65ac7cb18b67e54aa7550acfd00c0fafb1bb8d703ddb3a9feffb 5642 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJKBAEBCgA0FiEErq41i0HYrr2kUaJhI8AOADDUEVYFAmrioKwWHHN5c3RlbXIz
-NkB0ZWFteG5sLmNvbQAKCRAjwA4AMNQRVi3fEACujhpebV6aSBP+qajU7PUmD37+
-5Pggm/8/Ouw3LgbM31iAdgfZJ8eVMeCdRi8XkhWhgcKgvADv9WnNoGDsP9jb84wR
-WTeiEcn1o4LUk//QVxMlUZNvEup4K/LEIm/mu2mGwfPtZx6c/KYmkrzpjCDq2fvg
-3AoXujxXROPXaJ6p6bOqa7K0ukLK/7fElSzHcvYe5LhaDrTEjgmvFQ1NNGlPFuIN
-WXy2TXNDzKaCXQPegdA/attYMLNPytN78Qa9xQB84MSn1HQB2qmzyYpSfufKle4k
-5WEQo6Ika6oHDE4qtWCoKjNSkkoqxDbAta/0FpMc7MnlNd2bCGU2Z2i8dRLVgWPv
-jzcp8e7vcyX3gNGoa9f/MZ4x9ISAWcyWkoduSJbMZsjD8B41SAQ3myp2+z14kn2p
-DCbgGnILBNJ7TPnS1+wBwAzhASQfTq149XvRlg+2Qqhr86wzXzhOW/boKaxNSZkE
-NwPtL1VyDdNCm1VQGO4Os8Zl6ZetmIElHrDHybgp7xizIj9T5jSorjn/y21dzDYW
-DOaPbFI6PuCQoHEQRKj8e6SWEO/JqMC937rWdjETP3X+iJSf8Jv7WSWCRFnAZUyK
-uSbybxxc7PQljLkL3fDwWPU1aaijmsDe0m6yrYS3ud0I3YkshLsjjwrUbqhm/sAt
-asqWisiRyju1QmsaPg==
-=a7Z8
+iQJKBAEBCgA0FiEErq41i0HYrr2kUaJhI8AOADDUEVYFAmrisKAWHHN5c3RlbXIz
+NkB0ZWFteG5sLmNvbQAKCRAjwA4AMNQRVsQzD/9FQZo3WJewSD6N8j5Nhx3+twXi
+j1QcwFdI4SHm7vU9G3+1JDfE41taUuzXVHV6qgzS7jdG7it+8fJZg3srwaBaCXaC
+uDwEjA7huc2qhfy+OrnXddSvz5Fi6s5a2QDw6BMUMILXlJl5N3qLZSvGGk6+MBfD
+ZWDzD5pluK/ACzzWYM4uSVoQ8GPC7WIvowY6dAH5o/NqBhD9hpqTE2T1CcF8u0+D
+wBR6hEgAfeSaL4IjtwGHi7daW5AAsuajRf/nTp+wiq4MIsWHk29ChJPhsESPk9CE
+xMQBdUHXfMbU37f1pg9IpiC6r5rya1GxJ/SbGyjytlx1XhxGhjyz8JRKADpCumFg
+kXzDfV7OvdVp3+/Ipdlmg/++ZGjtFUphSEowviWdEogZmc67KECxoHUH9QSD6MDA
+fD+q4FbTso2hKtCQs/iGM8ROVDHwX2WpeZxaxevhGO4VbhgU1hxYAIKZEXW+FgQd
+L2AR5QOKoNq5YjhKUdKgg671bihbC/TEtn8M4ij2t/RlYumLDxI/UwJLVoye9bHv
+weP9iEu6iPze3eHkyL3/4TmzLt/VQKb87SKGItL+669TEk528+vFrKK+1shyNfRN
+y8WIN3632uROxtQsWey+aG/jjBJg2evk8xc1/PN55XsPD6oA3+PwtyP8EpulWcQh
+1rA7Pv2bdeg4kkwGjg==
+=UqrQ
 -----END PGP SIGNATURE-----
