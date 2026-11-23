@@ -58,10 +58,10 @@ Conflicts: emulationstation
 Replaces: emulationstation
 Provides: emulationstation
 Filename: pool/main/sr36-emulationstation.deb
-Size: 1541334
-MD5sum: a18e114bee4e5ffe346de09f90b38171
-SHA1: 06efeb29787a7867110940a6655f8042d3d4c998
-SHA256: aa4c7caac72b88e35ebf7cfb10b4531d39e63baa06c35d8502f6ff1cfafc9c40
+Size: 1540040
+MD5sum: 2cfbac9931a2b161c61343d052a9973d
+SHA1: a271a00db65dd8ba2ddd530e5974fccb10124edf
+SHA256: a359a7a00152001fe70b4d86fcda63406131988330cd544ae488f2c1a890225c
 Section: sr36-system
 Priority: optional
 Homepage: http://www.teamxnl.com/SystemR36
